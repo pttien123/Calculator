@@ -7,3 +7,5 @@ D:\Visual Studio 2010\Projects\BT_Calculator\BT_Calculator\obj\x86\Debug\Generat
 D:\Visual Studio 2010\Projects\BT_Calculator\BT_Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
 D:\Visual Studio 2010\Projects\BT_Calculator\BT_Calculator\obj\x86\Debug\BT_Calculator.exe
 D:\Visual Studio 2010\Projects\BT_Calculator\BT_Calculator\obj\x86\Debug\BT_Calculator.pdb
+C:\Users\Admin\Desktop\HiHi\Calculator\BT_Calculator\obj\x86\Debug\BT_Calculator.exe
+C:\Users\Admin\Desktop\HiHi\Calculator\BT_Calculator\obj\x86\Debug\BT_Calculator.pdb
