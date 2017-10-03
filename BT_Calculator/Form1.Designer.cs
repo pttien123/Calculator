@@ -32,9 +32,13 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btcong = new System.Windows.Forms.Button();
             this.textBox3 = new System.Windows.Forms.TextBox();
+<<<<<<< HEAD
             this.button2 = new System.Windows.Forms.Button();
+=======
+            this.bttru = new System.Windows.Forms.Button();
+>>>>>>> nhanh1
             this.SuspendLayout();
             // 
             // textBox1
@@ -69,15 +73,14 @@
             this.label2.TabIndex = 1;
             this.label2.Text = "b";
             // 
-            // button1
+            // btcong
             // 
-            this.button1.Location = new System.Drawing.Point(65, 202);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(122, 51);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btcong.Location = new System.Drawing.Point(32, 186);
+            this.btcong.Name = "btcong";
+            this.btcong.Size = new System.Drawing.Size(122, 51);
+            this.btcong.TabIndex = 2;
+            this.btcong.Text = "Cộng";
+            this.btcong.UseVisualStyleBackColor = true;
             // 
             // textBox3
             // 
@@ -86,6 +89,7 @@
             this.textBox3.Size = new System.Drawing.Size(101, 20);
             this.textBox3.TabIndex = 0;
             // 
+<<<<<<< HEAD
             // button2
             // 
             this.button2.Location = new System.Drawing.Point(217, 209);
@@ -94,14 +98,30 @@
             this.button2.TabIndex = 3;
             this.button2.Text = "button2";
             this.button2.UseVisualStyleBackColor = true;
+=======
+            // bttru
+            // 
+            this.bttru.Location = new System.Drawing.Point(175, 186);
+            this.bttru.Name = "bttru";
+            this.bttru.Size = new System.Drawing.Size(122, 51);
+            this.bttru.TabIndex = 2;
+            this.bttru.Text = "Trừ";
+            this.bttru.UseVisualStyleBackColor = true;
+            this.bttru.Click += new System.EventHandler(this.bttru_Click);
+>>>>>>> nhanh1
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(340, 265);
+<<<<<<< HEAD
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+=======
+            this.Controls.Add(this.bttru);
+            this.Controls.Add(this.btcong);
+>>>>>>> nhanh1
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox3);
@@ -120,9 +140,9 @@
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btcong;
         private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button bttru;
     }
 }
 
