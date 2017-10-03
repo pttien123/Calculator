@@ -16,7 +16,15 @@ namespace BT_Calculator
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btcong_Click(object sender, EventArgs e)
+        {
+            double a = Convert.ToInt16(textBox1.Text);
+            double b = Convert.ToInt16(textBox1.Text);
+            double c = a + b;
+            textBox3.Text = c.ToString();
+        }
+
+        private void bttru_Click(object sender, EventArgs e)
         {
             double a = Convert.ToInt16(textBox1.Text);
             double b = Convert.ToInt16(textBox1.Text);
